@@ -19,9 +19,8 @@ This project demonstrates full-stack backend development with REST APIs, CRUD op
 ## 🛠 Tech Stack  
 - **Backend:** Java, Spring Boot (Spring Web, Spring Data JPA, Spring Security)  
 - **Database:** PostgreSQL  
-- **Build Tool:** Maven / Gradle  
-- **API Testing:** Postman / cURL  
+- **Build Tool:** Maven
+- **API Testing:** Postman 
 
 ---
 
-## 📂 Project Structure  
